@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Community/Community.iml" filepath="$PROJECT_DIR$/../Community/Community.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PureJava/PureJava.iml" filepath="$PROJECT_DIR$/../PureJava/PureJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo1.iml" filepath="$PROJECT_DIR$/demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo2/demo2.iml" filepath="$PROJECT_DIR$/../demo2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Postgradutate/github/myblog-master/myblog.iml" filepath="$PROJECT_DIR$/../../../Postgradutate/github/myblog-master/myblog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springLearn1/springLearn1.iml" filepath="$PROJECT_DIR$/../springLearn1/springLearn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web/web.iml" filepath="$PROJECT_DIR$/../web/web.iml" />
+    </modules>
+  </component>
+</project>
