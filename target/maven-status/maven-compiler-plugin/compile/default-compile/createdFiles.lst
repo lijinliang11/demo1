@@ -1,0 +1,6 @@
+com\example\demo1\dao\BookDao.class
+com\example\demo1\domain\Book.class
+com\example\demo1\control\BookControl.class
+META-INF\spring-configuration-metadata.json
+com\example\demo1\MyDataSourse.class
+com\example\demo1\Demo1Application.class
